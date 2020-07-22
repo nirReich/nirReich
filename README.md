@@ -1,6 +1,6 @@
 [<img src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" height="25px" width="25px"/>](http://www.linkedin.com/in/nir-reich)
 [<img src=https://camo.githubusercontent.com/cf4f8d2d15be36d8d350ce33929ef131091abc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667 height="25px" width="25px"/>](http://https://www.facebook.com/nir.reich)
-[<img src=https://cdn4.vectorstock.com/i/1000x1000/02/18/mail-icon-in-black-circle-envelope-symbol-vector-21190218.jpg height="25px" width="25px"/>](mailto:reich.nir@gmail.com)
+[<img src=https://i.pinimg.com/564x/1f/5c/79/1f5c79832b4d0fddf889e3fc956a992c.jpg height="25px" width="25px"/>](mailto:reich.nir@gmail.com)
 
 
 Hi Everybody! 👋🏼
