@@ -17,7 +17,8 @@ About me..
 🤔 Searching for opportunities to use my expertise in React and Javascript.
 
 📫 Feel free to contact me for anything interesting:
-[![linkedin img](https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667){:height="10px" width="10px"}.](www.linkedin.com/in/nir-reich)
+[![linkedin img](
+<img src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" height="10px" width="10px"/>](www.linkedin.com/in/nir-reich)
 [![facebook logo](https://camo.githubusercontent.com/cf4f8d2d15be36d8d350ce33929ef131091abc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667){:height="10px" width="10px"}.](https://www.facebook.com/nir.reich)
 
 💬 you can also contect me here: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
