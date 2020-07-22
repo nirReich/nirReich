@@ -8,7 +8,7 @@ I love to learn and develop new skills, coding gives me the opportunity to do th
 Recently, I've finished a professional course in Front End development, including JS-ES6, CSS3 ,HTML5, bootstrap, ReactJS.
 ⚡ Now I'm looking for my first, brand new, entry-level job.
 
-About me..
+<ins>About Me..</ins>
 
 🔭 Currently working on React.js, JavaScript, CSS and Bootstrap.
 
