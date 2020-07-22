@@ -4,21 +4,24 @@
 Hi Everybody! 👋🏼
 
 My name is Nir Reich, I'm an Israeli  Front End developer who loves to code, resolving problems and creating smart user interfaces.
+</br>
 I love to learn and develop new skills, coding gives me the opportunity to do that and better myself!
+</br>
 Recently, I've finished a professional course in Front End development, including JS-ES6, CSS3 ,HTML5, bootstrap, ReactJS.
+</br>
 ⚡ Now I'm looking for my first, brand new, entry-level job.
 
 <ins>About Me..</ins>
 
-🔭 Currently working on React.js, JavaScript, CSS and Bootstrap.
+* 🔭 Currently working on React.js, JavaScript, CSS and Bootstrap.
 
-🌱I’m currently learning and expanding my knowledge in Node JS,
+* 🌱I’m currently learning and expanding my knowledge in Node JS,
 
-🌱my goal is to become a Full Stack Developer in the near future.
+* 🌱my goal is to become a Full Stack Developer in the near future.
 
-🤔 Searching for opportunities to use my expertise in React and Javascript.
+* 🤔 Searching for opportunities to use my expertise in React and Javascript.
 
-📫 Feel free to contact me for anything interesting: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
+* 📫 Feel free to contact me for anything interesting: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
 
 
 🖖 Catch you later!! 🖖
