@@ -5,7 +5,7 @@
 
 Hi Everybody! 👋🏼
 
-My name is Nir Reich, I'm an Israeli  Front End developer who loves to code, resolving problems and creating smart user interfaces.
+My name is Nir Reich, I'm a Front End developer who loves to code, resolving problems and creating smart user interfaces.
 </br>
 I love to learn and develop new skills, coding gives me the opportunity to do that and better myself!
 </br>
