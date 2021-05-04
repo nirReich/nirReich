@@ -15,13 +15,13 @@ Recently, I've finished a professional course in Front End development, includin
 
 <ins>About Me..</ins>
 
-* 🔭 Currently working on React.js, JavaScript, CSS and Bootstrap.
+* 🔭 Currently working with React js, React native, Node js, JavaScript, CSS and Bootstrap.
 
-* 🌱I’m currently learning and expanding my knowledge in Node JS,
+* 🌱I’m currently learning and expanding my knowledge in Next and TypeScript,
 
-* 🌱my goal is to become a Full Stack Developer in the near future.
+* 🌱My goal is to work as a Full Stack Developer full time.
 
-* 🤔 Searching for opportunities to use my expertise in React and Javascript.
+* 🤔 Searching for opportunities to use my expertise and build beautiful apps.
 
 * 📫 Feel free to contact me for anything interesting: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
 
