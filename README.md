@@ -5,13 +5,13 @@
 
 Hi Everybody! 👋🏼
 
-My name is Nir Reich, I'm a Front End developer who loves to code, resolving problems and creating smart user interfaces.
+My name is Nir Reich, I'm a full stack WEB developer who loves to code, resolving problems and creating smart user interfaces.
 </br>
 I love to learn and develop new skills, coding gives me the opportunity to do that and better myself!
 </br>
-Recently, I've finished a professional course in Front End development, including JS-ES6, CSS3 ,HTML5, bootstrap, ReactJS.
+studying and practicing Front and back End development, including JS-ES6, CSS3 ,HTML5, bootstrap, ReactJS, React native, Node js and more..
 </br>
-⚡ Now I'm looking for my first, brand new, entry-level job.
+⚡ Now I'm looking for brand new, entry-level job.
 
 <ins>About Me..</ins>
 
