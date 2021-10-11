@@ -9,19 +9,19 @@ My name is Nir Reich, I'm a full stack WEB developer who loves to code, resolvin
 </br>
 I love to learn and develop new skills, coding gives me the opportunity to do that and better myself!
 </br>
-⚡ studying and practicing Front and back End development, including JS-ES6, CSS3 ,HTML5, bootstrap, ReactJS, React native, Node js and more..
+⚡ studying and practicing Front and back End development, including JS-ES6, CSS3 ,HTML5, bootstrap, ReactJS, React native, Node js, Selenium and more..
 
 <ins>About Me..</ins>
 
 * 🔭 Currently working with React js, React native, Node js, JavaScript, CSS and Bootstrap.
 
-* 🌱I’m currently learning and expanding my knowledge in mySQL and MongoDB,
+* 🌱I’m currently learning and expanding my knowledge in python and selenium,
 
-* 🌱My goal is to work as a Full Stack Developer full time.
+* 🌱currently working as a Full Stack Developer full time.
 
 * 🤔 Searching for opportunities to use my expertise and build beautiful apps.
 
-* 📫 Feel free to contact me for anything interesting: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
+* 📫 Feel free to contact me: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
 
 
 🖖 Catch you later!! 🖖
