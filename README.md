@@ -5,15 +5,15 @@
 
 Hi Everybody! 👋🏼
 
-My name is Nir Reich, I'm a full stack WEB developer who loves to code, resolving problems and creating smart user interfaces.
+My name is Nir Reich, I'm a full stack WEB developer who loves to code, solve problems and creating smart user interfaces.
 </br>
-I love to learn and develop new skills, coding gives me the opportunity to do that and better myself!
+I love to learn new stuff and acquire new skills and coding gives me the opportunity to do just that!
 </br>
-⚡ studying and practicing Front and back End development, including JS-ES6, CSS3 ,HTML5, bootstrap, ReactJS, React native, Node js, Selenium and more..
+⚡ practicing Front and back End development, including JS-ES6, Typescript, CSS3 ,HTML5, ReactJS, React Native, Node js, Selenium and more..
 
 <ins>About Me..</ins>
 
-* 🔭 Currently working with React js, React native, Node js, JavaScript, CSS and Bootstrap.
+* 🔭 Currently working with Typescript, React, React native & Node js.
 
 * 🌱I’m currently learning and expanding my knowledge in python and selenium,
 
