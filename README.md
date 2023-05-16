@@ -15,15 +15,15 @@ I have experience in both front-end and back-end development, including technolo
 </br>
 ⚡<ins>About Me..</ins>⚡
 
-* 🔭 Currently working with Typescript, React, React native & Node js.
+* 🔭 Currently working with Typescript, React, React native & Node js,
 
-* 🌱 I’m currently learning and expanding my knowledge in python and selenium,
+* 🌱 I'm currently learning and expanding my knowledge in various technologies, including Python,
 
-* 🌱 currently working as a Full Stack Developer full time.
+* 🌱 currently working as a Full Stack Developer full time,
 
-* 🤔 Searching for opportunities to use my expertise and build beautiful apps.
+* 🤔 Searching for opportunities to use my expertise and build beautiful apps,
 
-* 🔭 If you're interested in working together or just want to chat about development, feel free to reach out to me via my Github profile or other social media platforms.
+* 🔭 If you're interested in working together or just want to chat about development, feel free to reach out to me via my Github profile or other social media platforms,
 
 * 📫 Feel free to contact me: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
 
