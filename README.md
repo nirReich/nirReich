@@ -24,7 +24,7 @@ I have experience in both front-end and back-end development, including technolo
 
 📫 Feel free to contact me!
 * Email: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
-* Linkedin: [www.linkedin.com/in/nir-reich](https://www.linkedin.com/in/nir-reich){:target="_blank"}
+* Linkedin: [www.linkedin.com/in/nir-reich](https://www.linkedin.com/in/nir-reich)
 
 
 🖖 Catch you later!! 🖖
