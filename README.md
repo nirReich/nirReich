@@ -22,9 +22,9 @@ I have experience in both front-end and back-end development, including technolo
 
 * 🔭 If you're interested in working together or just want to chat about development, feel free to reach out to me via my Github profile or other social media platforms,
 
-* 📫 Feel free to contact me!
+📫 Feel free to contact me!
 * Email: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
-* Linkedin: [www.linkedin.com/in/nir-reich](https://www.linkedin.com/in/nir-reich)
+* Linkedin: [www.linkedin.com/in/nir-reich](https://www.linkedin.com/in/nir-reich){:target="_blank"}
 
 
 🖖 Catch you later!! 🖖
