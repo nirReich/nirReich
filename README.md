@@ -22,7 +22,9 @@ I have experience in both front-end and back-end development, including technolo
 
 * 🔭 If you're interested in working together or just want to chat about development, feel free to reach out to me via my Github profile or other social media platforms,
 
-* 📫 Feel free to contact me: [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
+* 📫 Feel free to contact me:
+* [reich.nir@gmail.com](mailto:reich.nir@gmail.com)
+<img src="fa-crown.svg" width="50" height="50">
 
 
 🖖 Catch you later!! 🖖
